@@ -1,6 +1,6 @@
 # Greetings, Fellow Engineers! 👋
 
-I'm Aditya Singh, a budding code crafter and engineering enthusiast setting sail on the thrilling journey of frontend web development. Welcome aboard my GitHub profile!
+I'm Aditya Singh, a budding code crafter and engineering enthusiast setting sail on the thrilling journey of Full-Stack web development. Welcome aboard my GitHub profile!
 
 🌐 **About Me**
 
