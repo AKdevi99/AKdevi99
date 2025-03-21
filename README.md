@@ -44,7 +44,12 @@ Let's connect and build something amazing together!
     <img src="https://img.shields.io/badge/Twitter-%40AKdevi99-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
 </p>  
-![Profile Views](https://komarev.com/ghpvc/?username=AKdevi99&abbreviated=true&base=17&style=for-the-badge&color=brightgreen)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AKdevi99&style=for-the-badge&color=brightgreen&base=17" 
+       alt="Profile Views" 
+       style="border-radius: 10px; padding: 5px; background: #222;"/>
+</div>
+
 
 
 ---  
